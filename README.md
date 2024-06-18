@@ -1,1 +1,1 @@
-# odin-recipes
+I have created a basic website to share some of my favourite indian dishes receipies.
